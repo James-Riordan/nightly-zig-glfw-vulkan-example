@@ -12,7 +12,10 @@ You must install the LunarG Vulkan SDK: https://vulkan.lunarg.com/sdk/home
 
 ## Download vk.xml
 
-Download vk.xml directly from the [Vulkan-Headers Github repository](https://github.com/KhronosGroup/Vulkan-Headers/blob/main/registry/vk.xml)
+1. Download vk.xml directly from the [Vulkan-Headers Github repository](https://github.com/KhronosGroup/Vulkan-Headers/blob/main/registry/vk.xml)
+
+2. Place `vk.xml` in the `registry/` folder
+
 
 ### Clone the repository and dependencies
 
